@@ -2,7 +2,7 @@
 프로젝트 완성을 위한 참고 links &amp; 공부해야 할 부분
 
 ### FE
-1. https://sweetalert.js.org/guides/#advanced-examples [swal 처리]
+1. ~~https://sweetalert.js.org/guides/#advanced-examples [swal 처리]~~
 
 <pre><code>//swal logic 처리
 swal('text').then(function(isSuccess){
