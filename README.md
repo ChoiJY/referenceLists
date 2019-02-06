@@ -8,7 +8,7 @@
 1. ~~https://sweetalert.js.org/guides/#advanced-examples [swal 처리]~~
 2. https://scotch.io/bar-talk/4-javascript-design-patterns-you-should-know [Javascript DP]
 3. https://reactjs.org/docs/getting-started.html [react study]
-4. 개인 블로그 리액트 고도화
+4. ~~개인 블로그 리액트 고도화~~ Vue.js + ES6 적용하기
 
 ---
 
@@ -16,9 +16,13 @@
 1. ~~https://futurecreator.github.io/2018/08/26/java-8-streams/ [Java 8 Stream]~~
 2. http://araikuma.tistory.com/329/ [JPA 관련 ref]
 3. https://stackify.com/whats-new-in-java-10/ [Java 10]
-4. 개인 블로그 multi-thread batch process 적용
+4. ~~개인 블로그 multi-thread batch process 적용해보기 (블로그에 적용할만한 기술이 아직 x)
 
 ---
 
 ### etc
 1. https://gist.github.com/ihoneymon/652be052a0727ad59601 [md 작성법]
+2. Effective Java 학습
+3. 속깊은 Javascript 학습
+4. Vue.js 첫걸음 학습
+5. BOJ 1주일 1문제 이상 풀기
