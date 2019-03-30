@@ -2,9 +2,12 @@
  * Description: 생성자 관련 pattern
  */
 
- // Builder pattern
+ // Java beans Pattern
 public class People{
 
+    public People(){}
+    
+    // final 선언을 안해서 consistency 훼손 가능성 존재
     private int age;
     private String gender;
     private String name;
@@ -12,42 +15,27 @@ public class People{
     private String phone;
     private String description;
 
-    private People(Builder builder){
-        this.age = builder.age;
-        this.gender = builder.gender;
-        this.name = builder.name;
-        this.address = builder.address;
-        this.phone = builder.phone;
-        this.description = builder.description;
+    public void setAge(int age){
+        this.age = age;
     }
-    
-    // interface 이용하여 확장 또는 별도의 클래스로 분리 가능
-    public static class Builder{
 
-        private int age;
-        private String gender;
-        private String name;
-        private String address;
-        private String phone = "";
-        private String description = "";
+    public void setGender(String gender){
+        this.gender = gender;
+    }
 
-        public Builder(int age, String gender, String name, String address){
-            this.age = age;
-            this.gender = gender;
-            this.name = name;
-            this.address = address;
-        }
+    public void setName(String name){
+        this.name = name;
+    }
 
-        public Builder setPhone(String phone){
-            this.phone = phone;
-            return this;
-        }
-        public Builder setDescription(String description){
-            this.description = description;
-            return this;
-        }
-        public People build(){
-            return new People(this);
-        }
+    public void setAddress(String address){
+        this.address = address;
+    }
+
+    public int getAge(){
+        return this.age;
+    }
+
+    public String getGender(){
+        return this.gender;
     }
 }
