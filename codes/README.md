@@ -12,11 +12,5 @@
 ### Javascript
 1. FE grunt 이용 unit test
 
-<<<<<<< HEAD
 ### etc (algorithm, nginx 등...) 
 1. nginx + AWS 이용한 웹 서버 구성
-=======
-### etc (algorithm, nginx, 환경 구성 등...) 
-1. ~~nginx로 reverse proxy 설정해보기~~
-2. ~~python crawler 개발해보기~~
->>>>>>> 8a6585a799089cea5522dc843ff3f393bb76c879
