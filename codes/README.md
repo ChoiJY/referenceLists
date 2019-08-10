@@ -1,15 +1,22 @@
 # Design pattern 및 업무를 진행하며 필요했던 코드 정리
 
 ### Java
+--------
 1. JUnit 테스트 케이스 생성
 2. Stream / Optional / functional programming 코드 작성
 
+### Kotlin
+----------
+1. 기본 문법 학습
+2. Make Spring framework skeleton project
+
 ### Javascript
+--------------
 1. FE grunt 이용 unit test
 2. VanilaJS 코드 연습(jQuery 대체 코드)
 
 ### DP
-
+------
 - 객체 생성 관련 pattern
 
 1. builder pattern 
@@ -17,4 +24,5 @@
 3. Java beans pattern
 
 ### etc
+-------
 1. nginx + AWS + Jenkins 이용한 웹 서버 구성 및 무중단 배포 적용
