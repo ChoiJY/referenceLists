@@ -1,28 +1,25 @@
-# Design pattern 및 업무를 진행하며 필요했던 코드 정리
+# TIL
 
-### Java
---------
-1. JUnit 테스트 케이스 생성
-2. Stream / Optional / functional programming 코드 작성
+### Java/Kotlin
 
-### Kotlin
-----------
-1. 기본 문법 학습
-2. Make Spring framework skeleton project
+1. Java 8에서 추가된 것들 익숙해지기(ex. LocalDate, Stream, Optional, ...)
+2. Spring framework skeleton project 만들어보기
+3. Spring-Data-JPA / Spring-Security 구조 학습
 
 ### Javascript
---------------
+
 1. FE grunt 이용 unit test
-2. VanilaJS 코드 연습(jQuery 대체 코드)
+2. VanilaJS 학습(+ React)
 
-### DP
-------
-- 객체 생성 관련 pattern
+### DP / Algorithm
 
-1. builder pattern 
-2. Telescoping Constructor Pattern
-3. Java beans pattern
+1. Instance 생성 관련 pattern 
+2. 업무를 진행하면서 필요하다고 생각했던 DP들 정리
+3. leetcode / 백준 등에서 꾸준히 algorithm 풀기
 
 ### etc
--------
-1. nginx + AWS + Jenkins 이용한 웹 서버 구성 및 무중단 배포 적용
+
+1. Nginx + Docker + AWS 학습
+2. travis-CI / jenkins를 이용한 CI 환경 구성해보기
+3. prettier / commit pre hook 등 기본적으로 적용해보기
+4. DB query optimization 관련 학습 
