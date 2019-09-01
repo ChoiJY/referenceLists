@@ -1,27 +1,25 @@
-# TODO list (2018 - 2019)
+# TIL
 
-2019년 TODO Lists
+### Java/Kotlin
 
-<hr>
+1. Java 8에서 추가된 것들 익숙해지기(ex. LocalDate, Stream, Optional, ...)
+2. Spring framework skeleton project 만들어보기
+3. Spring-Data-JPA / Spring-Security 구조 학습
 
-### FE
-1. ~~https://sweetalert.js.org/guides/#advanced-examples [swal 처리]~~
-2. https://scotch.io/bar-talk/4-javascript-design-patterns-you-should-know [Javascript DP]
-3. https://reactjs.org/docs/getting-started.html [react study]
-4. ~~개인 블로그 React.JS migration~~
+### Javascript
 
-<hr>
+1. FE grunt 이용 unit test
+2. VanilaJS 학습(+ React)
 
-### BE (Java)
-1. ~~https://futurecreator.github.io/2018/08/26/java-8-streams/ [Java 8 Stream]~~
-2. http://araikuma.tistory.com/329/ [JPA 관련 ref]
-3. https://stackify.com/whats-new-in-java-10/ [Java 10]
-4. ~~개인 블로그 multi-thread batch process 적용해보기 (블로그에 적용할만한 기술이 아직 x)~~
+### DP / Algorithm
 
-<hr>
+1. Instance 생성 관련 pattern 
+2. 업무를 진행하면서 필요하다고 생각했던 DP들 정리
+3. leetcode / 백준 등에서 꾸준히 algorithm 풀기
 
 ### etc
-1. https://gist.github.com/ihoneymon/652be052a0727ad59601 [md 작성법]
-2. ~~Vue.js 첫걸음 학습~~
-3. ~~BOJ 1주일 1문제 이상 풀기~~
-4. 현재 github에서 개인적으로 진행하는 프로젝트들 branch 관리 방식 적용
+
+1. Nginx + Docker + AWS 학습
+2. travis-CI / jenkins를 이용한 CI 환경 구성해보기
+3. prettier / commit pre hook 등 기본적으로 적용해보기
+4. DB query optimization 관련 학습 
