@@ -1,4 +1,4 @@
-# TIL
+# Study Repository
 
 ### Java/Kotlin
 
